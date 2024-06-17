@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Full Stack Java Projects**
 
-- 🌱 I’m currently learning **Spring**
-
 - 📫 How to reach me **rohankodipaka777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
