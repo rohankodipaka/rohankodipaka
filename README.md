@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Kodipaka</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Full Stack Java Projects**
+- 🔭 I’m currently learning **Full Stack Java**
 
 - 📫 How to reach me **rohankodipaka777@gmail.com**
 
